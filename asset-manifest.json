@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/JacksonPorter7478/my-project/static/css/main.11d66956.css",
-    "main.js": "/JacksonPorter7478/my-project/static/js/main.ba206331.js",
-    "static/media/indonesia-high-res.jpg": "/JacksonPorter7478/my-project/static/media/indonesia-high-res.cc6b0247fd439035a91e.jpg",
-    "static/media/rice-terrace.jpg": "/JacksonPorter7478/my-project/static/media/rice-terrace.8911349e5de56d64c0f9.jpg",
-    "static/media/male-maldives.jpg": "/JacksonPorter7478/my-project/static/media/male-maldives.612a428ca1ff883fcc86.jpg",
-    "static/media/ice-tea.jpg": "/JacksonPorter7478/my-project/static/media/ice-tea.d29a7731032426a4c450.jpg",
-    "static/media/bali-temple.jpg": "/JacksonPorter7478/my-project/static/media/bali-temple.754b032d68a865c66d9c.jpg",
-    "static/media/exotic-bromo.jpg": "/JacksonPorter7478/my-project/static/media/exotic-bromo.1f62c8bd5197f129fa60.jpg",
-    "index.html": "/JacksonPorter7478/my-project/index.html",
-    "main.11d66956.css.map": "/JacksonPorter7478/my-project/static/css/main.11d66956.css.map",
-    "main.ba206331.js.map": "/JacksonPorter7478/my-project/static/js/main.ba206331.js.map"
+    "main.css": "/my-project/static/css/main.11d66956.css",
+    "main.js": "/my-project/static/js/main.5da7005c.js",
+    "static/media/indonesia-high-res.jpg": "/my-project/static/media/indonesia-high-res.cc6b0247fd439035a91e.jpg",
+    "static/media/rice-terrace.jpg": "/my-project/static/media/rice-terrace.8911349e5de56d64c0f9.jpg",
+    "static/media/male-maldives.jpg": "/my-project/static/media/male-maldives.612a428ca1ff883fcc86.jpg",
+    "static/media/ice-tea.jpg": "/my-project/static/media/ice-tea.d29a7731032426a4c450.jpg",
+    "static/media/bali-temple.jpg": "/my-project/static/media/bali-temple.754b032d68a865c66d9c.jpg",
+    "static/media/exotic-bromo.jpg": "/my-project/static/media/exotic-bromo.1f62c8bd5197f129fa60.jpg",
+    "index.html": "/my-project/index.html",
+    "main.11d66956.css.map": "/my-project/static/css/main.11d66956.css.map",
+    "main.5da7005c.js.map": "/my-project/static/js/main.5da7005c.js.map"
   },
   "entrypoints": [
     "static/css/main.11d66956.css",
-    "static/js/main.ba206331.js"
+    "static/js/main.5da7005c.js"
   ]
 }
